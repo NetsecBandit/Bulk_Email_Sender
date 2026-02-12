@@ -5,8 +5,8 @@ from email.mime.application import MIMEApplication
 import os
 
 # Email configuration
-sender_email = "razaranasaim@gmail.com"  # Replace with your email
-sender_password = "fzfc kaxe crew zqov"   # Replace with the 16-digit App Password
+sender_email = ""  # Replace with your email
+sender_password = ""   # Replace with the 16-digit App Password
 smtp_server = "smtp.gmail.com"         # SMTP server for Gmail
 smtp_port = 587                        # SMTP port for TLS
 
